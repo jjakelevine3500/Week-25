@@ -31,5 +31,3 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Website Link
 Check out the deployed app here: https://notetaker300.herokuapp.com/
-### Screenshots
-![screenshot] (https://github.com/jjakelevine3500/Week-25/blob/main/Screen%20Shot%202022-01-27%20at%201.06.26%20PM.jpg)
