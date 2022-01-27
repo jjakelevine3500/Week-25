@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brittanymorrisdesign/Homework-11.git"
+    "url": "https://github.com/jjakelevine3500/Week-25"
   },
-  "author": "Brittany Morris",
+  "author": "Jacob Levine",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brittanymorrisdesign/Homework-11/issues"
+    "url": "https://github.com/jjakelevine3500/Week-25"
   },
-  "homepage": "https://github.com/brittanymorrisdesign/Homework-11#readme",
+  "homepage": "https://github.com/jjakelevine3500/Week-25#readme",
   "dependencies": {
     "express": "^4.17.1",
     "inquirer": "^7.0.4",
